@@ -1,0 +1,10 @@
+.errors{
+    color: red;
+    display: flex;
+    margin: auto 2px;
+    font-size: smaller;
+}
+
+.paper-style{
+    padding: 50px;
+}
